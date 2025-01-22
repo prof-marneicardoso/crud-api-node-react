@@ -1,0 +1,28 @@
+nav {
+  background: #007bff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #f8f8f8;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
